@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ACrushMan
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning to code with python.
+- 📫 How to reach me: [github](https://github.com/ACrushMan)
